@@ -1,0 +1,21 @@
+resize 2000
+load words.txt
+
+put meaning
+check I have a dream that one day this nation will rise up live out the true meaning of its creed
+stats
+
+
+hash_code poly
+rehash
+stats
+
+
+hash_code cyclic
+rehash
+stats
+
+
+hash_code custom
+rehash
+stats
